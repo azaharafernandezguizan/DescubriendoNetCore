@@ -8,3 +8,5 @@ En la carpeta de Documents podréis encontrar un manual de como instalar el ento
 El entorno necesario consta de Visual Studio Community 2017 con los paquetes para ASP.Net y .Net Core y también el cliente MySQL Workbench con la base de datos creada y rellena con los datos que se incluyen en el script.
 
 Además es muy importante que el equipo tenga instalado el SDK de .Net Core, existe un documento que muestra la url de Microsoft desde la que se puede descargar.
+
+He añadido el proyecto con la estructura base vacío pero con las dependencias de Nuget para ahorrarnos tiempo de descarga de internet durante el taller. Es importante llevar la solución descargada y sin warnings amarillos, en el documento que explica como descargarla y comprobar que está OK podéis ver los pasos.
