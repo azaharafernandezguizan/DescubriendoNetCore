@@ -10,3 +10,8 @@ El entorno necesario consta de Visual Studio Community 2017 con los paquetes par
 Además es muy importante que el equipo tenga instalado el SDK de .Net Core, existe un documento que muestra la url de Microsoft desde la que se puede descargar.
 
 He añadido el proyecto con la estructura base vacío pero con las dependencias de Nuget para ahorrarnos tiempo de descarga de internet durante el taller. Es importante llevar la solución descargada y sin warnings amarillos, en el documento que explica como descargarla y comprobar que está OK podéis ver los pasos.
+
+
+Instrucciones para MAC.
+
+.Net Core, entre las ventajas que ofrece, es ser multiplataforma. No obstante los pasos de instalación varían un poco. Os he dejado en un documento tanto la dirección al repositorio de Vincenç García-Altés, como los pasos que ha seguido Cristina Fernández Sanz para tener el entorno preparado. Ambas son opciones válidas y quería darles las gracias públicas por querer colaborar y ayudarme con estos pasos ya que yo no dispongo de un equipo MAC para probarlo.
