@@ -14,4 +14,4 @@ He añadido el proyecto con la estructura base vacío pero con las dependencias 
 
 Instrucciones para MAC.
 
-.Net Core, entre las ventajas que ofrece, es ser multiplataforma. No obstante los pasos de instalación varían un poco. Os he dejado en un documento tanto la dirección al repositorio de Vincenç García-Altés, como los pasos que ha seguido Cristina Fernández Sanz para tener el entorno preparado. Ambas son opciones válidas y quería darles las gracias públicas por querer colaborar y ayudarme con estos pasos ya que yo no dispongo de un equipo MAC para probarlo.
+.Net Core, entre las ventajas que ofrece, es ser multiplataforma. No obstante los pasos de instalación varían un poco. Os he dejado en un documento tanto la dirección al repositorio de Vicenç García-Altés, como los pasos que ha seguido Cristina Fernández Sanz para tener el entorno preparado. Ambas son opciones válidas y quería darles las gracias públicas por querer colaborar y ayudarme con estos pasos ya que yo no dispongo de un equipo MAC para probarlo.
